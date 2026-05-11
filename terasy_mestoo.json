@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "terasy_mesto.1",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-515394.7296, -1236711.1696, 0],
+              [-515393.1396, -1236710.9096, 0],
+              [-515392.6914, -1236710.8866, 0],
+              [-515393.4184, -1236712.961, 0],
+              [-515394.7296, -1236711.1696, 0]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Field": 1,
+        "Field1": "Dopr./341/1/2024-Št",
+        "Field2": "2024-01-22T23:00:00Z",
+        "Field3": "Barbora Antalíková, Julyrest, s.r.o.",
+        "Field4": "Nitrianska Blatnica 260, 956 05 Nitrianska Blatnica",
+        "Field5": "6545/1",
+        "Field6": "Julyard",
+        "Field7": "Rázusova 1692/11",
+        "Field8": "20.12.2023 – 30.01.2024",
+        "Field11": "2024-12-09T23:00:00Z",
+        "Field12": "2024-01-29T23:00:00Z",
+        "Field9": "<a href=\"https://www.piestany.sk/modules/file_storage/download.php?file=a1512954%7C671\" target=\"_blank\">Rozhodnutie</a>",
+        "Field13": "neplatná",
+        "Shape_Leng": 6.47800295401,
+        "Shape_Area": 2.05113154065
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "terasy_mesto.2",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-515398.5566, -1236726.2993, 0],
+              [-515397.1596, -1236719.9796, 0],
+              [-515397.0328, -1236719.1661, 0],
+              [-515397.0091, -1236719.014, 0],
+              [-515396.3185, -1236714.5849, 0],
+              [-515395.4381, -1236715.5138, 0],
+              [-515394.9402, -1236716.039, 0],
+              [-515390.6087, -1236721.0167, 0],
+              [-515393.9834, -1236721.5604, 0],
+              [-515393.2182, -1236725.2442, 0],
+              [-515394.3098, -1236725.4599, 0],
+              [-515395.9792, -1236725.7899, 0],
+              [-515396.7699, -1236725.9462, 0],
+              [-515398.5566, -1236726.2993, 0]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Field": 1,
+        "Field1": "Dopr./3428/1/2024-Št",
+        "Field2": "2024-07-18T22:00:00Z",
+        "Field3": "Julyrest, s.r.o.",
+        "Field4": "Nitrianska Blatnica 260, 956 05 Nitrianska Blatnica",
+        "Field5": "6545/1",
+        "Field6": "Julyard",
+        "Field7": "Rázusova 1692/11",
+        "Field8": "25.04.2023 – 31.12.2024",
+        "Field11": "2023-04-24T22:00:00Z",
+        "Field12": "2024-12-30T23:00:00Z",
+        "Field9": "<a href=\"https://www.piestany.sk/modules/file_storage/download.php?file=a1512954%7C671\" target=\"_blank\">Rozhodnutie</a>",
+        "Field13": "neplatná",
+        "Shape_Leng": 33.1564250211,
+        "Shape_Area": 43.2952371794
+      }
+    }
+  ]
+}
